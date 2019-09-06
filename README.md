@@ -1,6 +1,6 @@
-# WebApp
+# Smart Assistant
 
-Smart Assistant
+Demo web app for College project.
 
 ## Project Description
 
